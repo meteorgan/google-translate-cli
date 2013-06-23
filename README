@@ -1,0 +1,3 @@
+google translate using under terminal.
+This project is inspired by soimort's google-translate-cli(https://github.com/soimort/google-translate-cli).
+and I rewrite it in ruby, I have used the help message from soimort's google-translate-cli.
